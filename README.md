@@ -16,3 +16,4 @@ You might need to use sudo
 
 #gulpfile-w-browserSync.js
 Will updated changes dynamically js and css to your screen used with ASP.NET
+run npm install browser-sync --save-dev
