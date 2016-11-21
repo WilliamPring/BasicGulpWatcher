@@ -14,5 +14,5 @@ Basic Gulp File to get started on your web pages
 These commands might require you to be an admin
 You might need to use sudo
 
-#gulpfile with browserSync.js
+#gulpfile-w-browserSync.js
 Will updated changes dynamically js and css to your screen used with ASP.NET
